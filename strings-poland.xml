@@ -444,12 +444,12 @@
     <string name="start_app_update_summary">Automatycznie uruchamia Ariela po instalacji aktualizacji.</string>
     <string name="logout_text_info">Czy chcesz się wylogować? Informacje o obecnym połączeniu zsotaną usunięte.</string>
 
-    <string name="home_assistant_servers">Home Assistant servers</string>
-    <string name="home_assistant_servers_summary">Manager Home Assistan servers </string>
+    <string name="home_assistant_servers">Serwert Home Assistant</string>
+    <string name="home_assistant_servers_summary">menadżer serverów Home Assistan </string>
     <string name="create_server_text">Create Server</string>
     <string name="default_text">Default</string>
-    <string name="error_create_server_text">Please enter a valid server name in order to continue.</string>
-    <string name="active_server_cannot_delete">The active server cannot be deleted.</string>
+    <string name="error_create_server_text">Wprowadź prawidłową nazwę serwera aby kontynuować.</string>
+    <string name="active_server_cannot_delete">Aktywny serwer nie może być usunięty.</string>
 
     <string name="certificate_message_info">If you server connection requires custom certificates like PCKS12 you may enter here the path of the certificate to be used. This is useful when having your Home Assistant server running over NGINX for example.</string>
     <string name="please_enter_certificate_path">Use search button to enter the certificate path:</string>
